@@ -4,7 +4,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ---
 
-### View Zoro Consulting's full report [here]().
+### View Zoro Consulting's full report [here](Zoro%20Consulting%20Report.pdf).
 
 Any references to appendices or citations can be found there.
 
@@ -264,7 +264,7 @@ No compounding of mortality rate reductions by applying multiple interventions s
 
 ### Risk and Mitigation Strategies
 
-### Risks
+#### Risks
 
 **Low Program Utilisation Rate:** Low participation in the program due to a lack of awareness or unwillingness to participate, caused by high costs or low accessibility. The reduction in Australian bulk billing providers (Attwooll, 2024) mean increases in out-of-pocket expenses for healthcare screenings and may lead to resistance in policyholders undertaking preventative health screenings. 
 
@@ -282,7 +282,7 @@ No compounding of mortality rate reductions by applying multiple interventions s
 
 **Cyberthreat Risk:** Requiring users to input sensitive health and other personal data into a mobile application may expose them to the threat of a cyberattack, compromising their data privacy and security. 
 
-### Risk Mitigations
+#### Risk Mitigations
 
 **Low Program Utilisation Rate:** Introducing comprehensive awareness campaigns and educational marketing, and offering accessible screenings such as online screening guides and at-home screening kits to increase attraction to the program. Further, carry out market research to anticipate demand. 
 
@@ -303,6 +303,7 @@ No compounding of mortality rate reductions by applying multiple interventions s
 ---
 
 ### Sensitivity Analysis
+
 Based on the sensitivity analysis conducted, particularly on program utilisation and 
 reimbursement rate, there is a high degree of certainty that the value of benefits derived from 
 the policies sold with SuperScreen will exceed those sold without. The only factor with 
@@ -326,11 +327,12 @@ mortality improvement.
 A summary of data limitations and remedies for these limitations are detailed below:  
 
 | Data Limitation | Impact | Remedy/External Data Source |
-| ----------------- | ----------- | ------------------ |
-| InForce Data contained very few people aged over 85, with a maximum age of 87. |Mortality rates for ages 85-87 were inaccurate due to the small number of people surviving to these ages, and no mortality rates could be calculated for ages over 87. | Rates for ages 85-87 were deemed unnecessary as it was outside the maximum possible age for a policy under 20-year term insurance based on historical data and was not used in the computation of whole life mortality. |
+| --------------- | ------ | --------------------------- |
+| InForce Data contained very few people aged over 85, with a maximum age of 87. | Mortality rates for ages 85-87 were inaccurate due to the small number of people surviving to these ages, and no mortality rates could be calculated for ages over 87. | Rates for ages 85-87 were deemed unnecessary as it was outside the maximum possible age for a policy under 20-year term insurance based on historical data and was not used in the computation of whole life mortality. |
 | InForce Data contained values of “1”, “Y” and “NA” in the Lapse Indicator column, whereas the Key to Inforce Data indicated “0” to represent No Lapse and “1” to represent Lapse.  | Lapse data impacts the calculation of lapse rates, which will affect pricing and thus premiums. | It was assumed that policyholders with a lapse indicator of either “1” or “Y” had lapsed, since all these policyholders had a year of lapse, and those with “NA” had no lapse. |
 | InForce Data contains no policyholders with an age at death of 75.  | Unable to calculate premium for joining policyholders aged 55 since it requires the mortality rate of age 75. | The mortality for age 74 was determined based on the ratio of change from 73 to 74 on the population mortality table.  |
 | The Lumaria mortality table was not split up by gender or smoking status.  | Difficulty in pricing SPWL product where ages up to 120 are needed and not observed in data. | Used parameters from Cox-Regression model and smoking/gender distribution from comparable countries to split Lumaria mortality table into required classes.  |
+
 ---
 
 ### Ethical Considerations
