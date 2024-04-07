@@ -323,10 +323,34 @@ mortality improvement.
 ---
 
 ### Data Limitations
+A summary of data limitations and remedies for these limitations are detailed below:  
 
+| Data Limitation | Impact | Remedy/External Data Source |
+| ----------------- | ----------- | ------------------ |
+| InForce Data contained very few people aged over 85, with a maximum age of 87. |Mortality rates for ages 85-87 were inaccurate due to the small number of people surviving to these ages, and no mortality rates could be calculated for ages over 87. | Rates for ages 85-87 were deemed unnecessary as it was outside the maximum possible age for a policy under 20-year term insurance based on historical data and was not used in the computation of whole life mortality. |
+| InForce Data contained values of “1”, “Y” and “NA” in the Lapse Indicator column, whereas the Key to Inforce Data indicated “0” to represent No Lapse and “1” to represent Lapse.  | Lapse data impacts the calculation of lapse rates, which will affect pricing and thus premiums. | It was assumed that policyholders with a lapse indicator of either “1” or “Y” had lapsed, since all these policyholders had a year of lapse, and those with “NA” had no lapse. |
+| InForce Data contains no policyholders with an age at death of 75.  | Unable to calculate premium for joining policyholders aged 55 since it requires the mortality rate of age 75. | The mortality for age 74 was determined based on the ratio of change from 73 to 74 on the population mortality table.  |
+| The Lumaria mortality table was not split up by gender or smoking status.  | Difficulty in pricing SPWL product where ages up to 120 are needed and not observed in data. | Used parameters from Cox-Regression model and smoking/gender distribution from comparable countries to split Lumaria mortality table into required classes.  |
 ---
 
 ### Ethical Considerations
+A critical ethical concern with the program lies in the potential for inadvertent discrimination, 
+particularly against individuals who cannot fully engage in preventative health screenings, for 
+example, due to personal reasons, disabilities, or those not able to afford GP appointments. 
+For example, people with disabilities have a 10% lower health screening participation rate 
+compared to those without disabilities (Kim, 2023). Such barriers not only marginalise 
+certain groups but also excludes them from accessing the benefits of the program. 
 
+Offering reimbursements to policyholders in the form of a percentage of their premiums 
+introduces an ethical concern of equity, especially between smokers and non-smokers. At 
+first glance, this incentive is designed to alleviate some costs and encourage policyholders 
+towards better health. However, since smokers face higher premium rates due to increased 
+health risks, they also receive higher reimbursements compared to non-smokers. Non-
+smokers may perceive this as unfair and feel penalised as their lower-risk status leads to a 
+lower dollar value of financial reward, despite their efforts to maintain or improve their 
+health. Further, this approach can also be seen as an endorsement of risky health behaviours. 
+The direct link of financial benefits to smoking status can be wrongly perceived as a greater 
+reward for unhealthy habits, complicating the ethics with unintended consequences. 
+  
 
 
