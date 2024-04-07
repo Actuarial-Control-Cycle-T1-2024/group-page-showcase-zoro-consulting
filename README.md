@@ -99,7 +99,7 @@ individualised recommendations, increasing the attractiveness of participating i
 Using SuperLife’s provided intervention data, each intervention was ranked based on their
 cost-benefit ratio. This was computed using the formula:
 
-$$ Cost Benefit Ratio = \frac{Average Impact on Mortality Rates}{Average Per Capita Cost} .$$
+![](Equation.png)
 
 The top five interventions are tabulated below (see Appendix A for complete table).
 
