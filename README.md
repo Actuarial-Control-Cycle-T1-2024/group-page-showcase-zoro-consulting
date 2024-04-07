@@ -6,6 +6,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ### View Zoro Consulting's full report [here]().
 
+Any references to appendices or citations can be found there.
+
 ---
 
 ### Executive Summary
@@ -17,6 +19,10 @@ details the proposed program, a preventative health screening rewards-based prog
 consists of a mobile application to provide individualised recommendations on health
 screenings appropriate for each policyholder, and reimbursement for successful completion
 of such screenings.
+
+---
+
+### Overview
 
 The proposed program aims to reduce health risks and mortality rates amongst policyholders
 through prevention and early detection of health issues such as breast cancer, prostate cancer,
@@ -95,7 +101,7 @@ cost-benefit ratio. This was computed using the formula:
 
 $$ Cost Benefit Ratio = \frac{Average Impact on Mortality Rates}{Average Per Capita Cost} .$$
 
-The top five interventions are tabulated below (see Appendix A in the full report for complete table).
+The top five interventions are tabulated below (see Appendix A for complete table).
 
 | Intervention Name | Description | Cost-Benefit Ratio |
 | ----------------- | ----------- | ------------------ |
