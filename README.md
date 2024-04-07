@@ -217,10 +217,88 @@ chance of claim.
 ---
 
 ### Assumptions
+The significant assumptions used in our quantitative analysis are detailed below:  
+
+**Discount rate: 3.00%.** <br />
+The discount rate was determined as the average of the past 20 years’ 10-year risk-free annual spot rates provided in the economic data. 
+
+**Lapse rates:** <br />
+1.00% for policies with a duration of 1 year, 
+0.86% for policies with durations between 2 and 5 years,  
+0.59% for policies with durations between 6 and 10 years,  
+0.36% for policies with durations between 11 and 15 years,  
+0.17% for policies with durations greater than 16 years. 
+
+Lapse rates were calculated based on experience reflected in the given InForce dataset. 
+
+**Commission rates: 80.00% in the first year, and 2.00% thereafter.** <br />
+Commissions are based on industry averages published by InsuranceBusiness Magazine (2023), who state front-loaded commissions of 40-115% in the first year of the policy, and 1-2% thereafter. A commission rate of 80%, approximately the median of the first-year commission range has been utilised, and 2% for subsequent years, which is the upper end of the average range. This is a conservative estimate to create a buffer to ensure viability and sustainability in less favourable conditions. 
+
+**Mortality reduction from intervention program: 6.00% across all ages.** <br />
+The provided interventions dataset quotes a 5-10% reduction in mortality upon successful completion of the health screening program. As a conservative assumption, we have adopted a rate of 6.00%, applying across all ages and genders.  
+
+**Program utilisation rate: 80.00%.** <br />
+This is the rate of policyholders that we assume will utilise the program, which will affect mortality experience (by affecting mortality improvement rates) and the costs of reimbursement upon successful completion of the program.  
+
+**Investment earnings rate: 4.00%.** <br />
+According to Frontier Advisors (2024), life insurers typically invest most of their portfolios in safe bonds, which earn at the same rate as the discount rate, and the remainder of their portfolio in riskier investments, making the overall investment earnings rate slightly higher than the discount rate. On this basis, we have adopted an investment earnings rate of 4%, 1% higher than the discount rate. 
+
+**Expenses: Č200 for first year, Č25 onwards** <br />
+Expenses were determined through an expense analysis, involving estimation of each expense to obtain an aggregate amount. 
+
+**Required capital: Č0.01 per Č1000 death benefit**  
+Required capital for an insurance company is frequently a flat amount, but a rate of death benefit was chosen as a more conservative approach. If a regulatory flat amount was used instead, more capital could be allocated to investment earnings and distributed earnings, though the per policy impact is relatively minor. 
+
+**Required reserves: Č0.5 per Č1000 death benefit** 
+Required reserves were estimated based on industry standards (AgentSync, 2021).  
+
+**Further, for simplicity, we have assumed:** <br />
+No change in age, income and employment distribution. <br />
+Uniform geographic distribution of policyholders without significant regional disparities that may affect access to healthcare. <br />
+All participants of the program undergo health screenings once every three years on average. <br />
+No significant advances in medical technology or treatments. <br />
+No accounting for external Black Swan events such as health pandemics, government interventions that affect mortality (such as laws banning smoking or vaping), or access to healthcare.  <br />
+No compounding of mortality rate reductions by applying multiple interventions since the interaction between interventions cannot be accurately quantified. 
 
 ---
 
 ### Risk and Mitigation Strategies
+
+### Risks
+
+**Low Program Utilisation Rate:** Low participation in the program due to a lack of awareness or unwillingness to participate, caused by high costs or low accessibility. The reduction in Australian bulk billing providers (Attwooll, 2024) mean increases in out-of-pocket expenses for healthcare screenings and may lead to resistance in policyholders undertaking preventative health screenings. 
+
+**Changes to Mortality Rates:** External events such as government interventions and pandemics may affect the mortality rates underpinning the pricing of the proposed incentive program. For example, the COVID-19 pandemic led to excess mortality, whereas government interventions to ban vaping or smoking may lead to lighter mortality experience. 
+
+**Market Risk:** Market risk such as rising interest rates and inflationary pressures can increase the costs and expenses associated with running the program, making it unsustainable in the long-term. 
+
+**Moral Hazard Risk:** unnecessary overuse of preventative screening: due to the incentive that they will be financially rewarded, which can lead to increased costs, reduced resources/supply and a reduction in overall effectiveness of the program. Further, policyholders may become complacent about their health, solely relying on the screening program instead of actively maintaining healthy habits, leading to long-term health risks.  
+
+**Unanticipated Costs and Effectiveness:** Administrative costs associated with the reimbursement program and monitoring compliance with the health screening program may be higher than expected, reducing the long-term financial viability of the program. Further, if the program is ineffective in reducing mortality, SuperLife may suffer large expenses without any fruitful benefits in the form of reduced claims. 
+
+**Reputational Risk:** In the case that the program is ineffective or that policyholders are concerned about the security and privacy of sharing their health screening data, SuperLife may suffer a loss of public trust or negative publicity. 
+
+**Competitor Risk:** If competing insurers offer similar health screening programs, there may be pressure to match or exceed their offerings, increasing costs and competitive pressures. 
+
+**Cyberthreat Risk:** Requiring users to input sensitive health and other personal data into a mobile application may expose them to the threat of a cyberattack, compromising their data privacy and security. 
+
+### Risk Mitigations
+
+**Low Program Utilisation Rate:** Introducing comprehensive awareness campaigns and educational marketing, and offering accessible screenings such as online screening guides and at-home screening kits to increase attraction to the program. Further, carry out market research to anticipate demand. 
+
+**Changes to Mortality Rates:** Maintaining adequate reserves as shock absorbers to provide temporary relief or transferring the risk to reinsurers for increased protection against unforeseen catastrophes. Further, conducting annual reviews of mortality experience and adjusting prices accordingly.  
+
+**Market Risk:** Diversifying the investment portfolio to mitigate market volatility and hedging against interest rate fluctuations and inflation. 
+
+**Moral Hazard Risk:** Setting recommended time limits on the frequency of preventative screenings to avoid unnecessary check-ups. Further, monitoring and tracking the use of preventative screening to identify patterns and guidelines of appropriate use.  
+
+**Unanticipated Costs and Effectiveness:** Regular monitoring and evaluation of program effectiveness and administration costs to help identify inefficiencies or areas of improvement, such as asking policyholders for feedback. Further, investigating the costs of running similar health incentive programs at other insurance companies before implementing the program. 
+
+**Reputational Risk:** Transparent communication with policyholders, providing updates with the program’s processes and outcomes to ensure trust. Addressing concerns and feedback promptly to mitigate negative perceptions.  
+
+**Competitor Risk:** Strategic partnerships with healthcare providers, wellness brands or technology companies to enhance program value and efficiency. Employ effective marketing and communication to make the program more attractive. 
+
+**Cyberthreat Risk:** Implementing strong data encryption protocols and using mechanisms such as multi-factor authentication to prevent unauthorised access to the application. 
 
 ---
 
