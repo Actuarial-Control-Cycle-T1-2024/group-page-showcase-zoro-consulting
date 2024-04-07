@@ -167,10 +167,52 @@ evaluation of the program’s performance and its influence on SuperLife’s obj
 ### Pricing and Costs
 
 #### Mortality Savings
-
+The mortality savings were defined as the difference between the mortality experience with 
+and without SuperScreen (i.e. the number of additional lives saved). In total, the mortality 
+savings reached for term insurance were 1136 lives on a total original deaths of 18938. That 
+is, 1136 who did die with the current policy would not have died if SuperScreen were in 
+place. Similarly, for Single Premium Whole Life, there were mortality savings of 1121 lives 
+on the original 18685 deaths. The changes in mortality are shown in the graphs below. 
 #### Cost-Benefit Analysis
+The economic value of the proposed program was projected across 5 year and 20 year 
+timeframes. Economic value was defined as the profit derived from the addition of new 
+policies. This value was calculated across the different classes and for each death benefit, 
+before being aggregated together to form a single value for total economic value.  
+
+
+The table above illustrates the economic value of 20-Year Term Insurance with and without 
+and introduction of SuperScreen. Evidently, the aggregate value of the policy with the 
+program far exceeds the value without the program. This represents a 47.25% increase in the 
+short term, and 46.58% increase in the long term, demonstrating that the program sees 
+success in the short and long term. 
+
+Similarly, the aggregate value of the policy with SuperScreen exceeds the policy without by 
+21.35% and 21.19% for 5-Year and 20-Year outlooks respectively.  
+
 
 #### Pricing Recommendations
+The economic value of the program is largely influenced by the trade-off between increased 
+reimbursements and improved mortality. This was especially evident in the later ages where 
+the gains from reduced mortality rates were not enough to offset the expenses due to higher 
+reimbursement rates. A possible proposal could be to impose stricter underwriting on the later 
+years particularly if they are more prone to health issues, or are a smoker. However, this 
+could have the adverse effect of reducing sales and accessibility, which goes against the goals 
+of the organisation. Moreover, this effect in its current state is insubstantial to the overall 
+profit of program intervention, as profits are significant for the ages prior.  
+ 
+Premiums were found to be quite variable and drastically changed across different ages, as it 
+was increasingly difficult to reach profit margins as the issue age increases. This was mainly 
+due to significantly larger claims frequency as age progressed due to greater mortality rates. 
+While SuperScreen does successfully address reducing mortality rates, changes can be made 
+to pricing and underwriting to tackle the issue of premiums. Rather than charge exceptionally 
+high premiums on old age, the premiums of younger ages could be brought up to slightly 
+offset the older ages, reducing their premiums. This would improve accessibility and 
+competitiveness, thereby increasing sales. Additionally, this effect is particularly pronounced 
+in smoker classes, where premiums are unreasonably high and would effectively bar out the 
+market. This is due to their exceptionally high mortality rates, particularly at older ages, 
+where it is likely that a claim would be made. It is recommended that underwriting is very 
+strict on old age smokers as there is likely to be significant damage to health and a high 
+chance of claim.
 
 ---
 
@@ -183,6 +225,22 @@ evaluation of the program’s performance and its influence on SuperLife’s obj
 ---
 
 ### Sensitivity Analysis
+Based on the sensitivity analysis conducted, particularly on program utilisation and 
+reimbursement rate, there is a high degree of certainty that the value of benefits derived from 
+the policies sold with SuperScreen will exceed those sold without. The only factor with 
+material impact on feasible changes is the reimbursement rate. It is recommended that the 
+reimbursement rate should follow the average of one screening every three year, which maps 
+well to a linear increase of reimbursement rate as age increases. Additionally, reimbursement 
+rate is entirely controlled by SuperLife.  
+
+We also maintain a high degree of certainty that the proposed program would have lowered 
+mortality for the past 20 years. This is dependent on the design of the program as well as 
+utilisation rate. We are confident that the design of the program would be effective in uptake 
+as it presents little downside to the customer. Additionally, our sensitivity analysis revealed 
+that utilisation rate does not pose a significant risk to the certainty of lowered mortality or 
+economic value loss, largely because reimbursement scales in the opposite direction to 
+mortality improvement.
+ 
 
 ---
 
