@@ -146,6 +146,13 @@ evaluation of the program’s performance and its influence on SuperLife’s obj
 ### Pricing and Costs
 
 #### Mortality Savings
+Before determining mortality savings, Zoro investigated in-force mortality rates by class, 
+as well as how Lumaria compared to other countries.
+
+![](Mortality%20by%20Class%20Graph.png)
+
+![](Country%20Comparison%20of%20Mortality%20Graph.png)
+
 The mortality savings were defined as the difference between the mortality experience with 
 and without SuperScreen (i.e. the number of additional lives saved). In total, the mortality 
 savings reached for term insurance were 1136 lives on a total original deaths of 18938. That 
@@ -179,6 +186,14 @@ success in the short and long term.
 
 Similarly, the aggregate value of the policy with SuperScreen exceeds the policy without by 
 21.35% and 21.19% for 5-Year and 20-Year outlooks respectively.  
+
+As the economic value is underpinned by the makeup of the policyholder pool, we simulated
+policyholder transitions with and without the SuperScreen program to support our analysis. In
+a 20-year projection, the makeup of the policyholder pool is more desirable with SuperScreen
+in effect than without. Over this timeframe, SuperScreen yields a higher proportion of in
+force policies, with fewer lapsed and deceased. This is depicted in the graph below.
+
+![](Policyholder%20Base%20Projections.png)
 
 #### Pricing Recommendations
 The economic value of the program is largely influenced by the trade-off between increased 
