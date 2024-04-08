@@ -29,8 +29,8 @@ the program have been highlighted and strategies to manage them have been recomm
 ### Objectives
 
 The pairing of the program with SuperLife's products have the goal of incentivising 
-healthy behaviours in policyholders, decrease mortality, improve competitiveness, 
-increase sales and add value to the SuperLife.
+healthy behaviours in policyholders, decreasing mortality, improving competitiveness, 
+increasing sales and adding value to the SuperLife.
 
 To meet the goals established by SuperLife, the proposed program aims to reduce health 
 risks and mortality rates among policyholders by offering a unique way to reward policyholders for 
