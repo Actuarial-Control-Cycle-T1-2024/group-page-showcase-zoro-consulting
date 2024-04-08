@@ -6,51 +6,45 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ### View Zoro Consulting's full report [here](Zoro%20Consulting%20Report.pdf).
 
-Any references to appendices or citations can be found there.
-
 ---
 
 ### Executive Summary
 
-Zoro Consulting has been engaged by SuperLife to develop a health incentive program
-aligning with their longer-term life insurance offerings, which will improve its policyholders’
-expected mortality after the policyholder has purchased a life insurance program. This report
-details the proposed program, a preventative health screening rewards-based program, which
-consists of a mobile application to provide individualised recommendations on health
-screenings appropriate for each policyholder, and reimbursement for successful completion
-of such screenings.
+Zoro Consulting (Zoro) has been engaged by SuperLife to develop a health incentive program
+aligning with their longer-term life insurance offerings, which will mutually benefit 
+customers and SuperLife. Zoro is proposing a preventative health screening rewards-based program, 
+which consists of a mobile application to provide individualised recommendations on 
+health screenings appropriate for each policyholder, and reimbursement for successful 
+completion of such screenings. While Zoro's findings support the implementation of the 
+program, limitations around data quality and availability are noted. Risks associated with 
+the program have been highlighted and strategies to manage them have been recommended.
 
 ---
 
 ### Overview
 
-The proposed program aims to reduce health risks and mortality rates amongst policyholders
-through prevention and early detection of health issues such as breast cancer, prostate cancer,
-high blood pressure and sexually transmitted diseases, leveraging preventative screening
-services available at GP offices. The program is supported by strong evidence that
-preventative screening services are associated with lower rates of mortality. For example, a
-recent study conducted in the UK found that a similar preventative health screening program
-targeting conditions such as heart disease, diabetes, stroke, and others, led to a 23% lower
-risk of death from any cause (Attwooll, 2024). This evidence underscores the potential
-effectiveness of the proposed program in improving health outcomes and reducing mortality
-rates amongst SuperLife’s policyholder pool.
+SuperLife, a major life insurance carrier in Lumaria, has engaged Zoro Consulting to 
+facilitate product development by comparing findings between their internal product 
+development team and an external independent consulting team. The proposed program 
+is to be paired with their longer-term insurance offerings. This pairing has the 
+goal of incentivising healthy behaviours in policyholders, decrease mortality, 
+improve competitiveness, increase sales and add value to the SuperLife.
+
+In the full report, Zoro Consulting provides recommendations with supporting 
+analysis, including model results, key actuarial assumptions, sensitivity 
+testing, risks, limitations, and ethical considerations.
 
 ---
 
 ### Objectives
 
-#### Main Program Objectives
-1. Risk Management
-2. Enhanced Value Proposition and Competitive Advantage
-3. Long-Term Sustainability
-4. Data Collection and Insights
-
-#### Key Metrics to Measure Success
-1. Policyholder Utilisation
-2. Customer Satisfaction
-3. Claims Frequency
-4. Lapse Rate
-5. New Policyholders
+To meet the goals established by SuperLife, the proposed program aims to reduce health 
+risks and mortality rates among policyholders by offering a unique and competitive 
+health incentive program. This will allow SuperLife to manage their risk exposure while 
+enhancing their value proposition and ethically promoting healthy behaviours. The program 
+supports strives for long-term sustainability and integrates data collection to facilitate this.
+Zoro's findings are supported by strong evidence that preventative screening services are 
+associated with improved health outcomes and lower rates of mortality.
 
 ---
 
@@ -69,12 +63,7 @@ higher reimbursement amounts proportional to their premiums. This strategy is de
 ensure equitable access and encourage participation in the program. By engaging with the
 SuperScreen program, policyholders proactively monitor their health indicators, enabling
 them to detect and address potential health risks early, thereby decreasing the expected
-mortality rate. The Australian Institute of Health and Welfare (2018) highlights that people
-with breast, cervical and bowel cancers detected through national cancer screening programs
-have better outcomes than those diagnosed but who have never been screened. For example,
-women who have undertaken screening have an 87% lower risk of dying from cervical cancer
-than those who have never had a cervical screening test before. This underscores the
-importance and impact of preventative screening measures on reducing mortality. 
+mortality rate.
 
 #### SmartScreen App
 
@@ -101,7 +90,7 @@ cost-benefit ratio. This was computed using the formula:
 
 ![](Equation.png)
 
-The top five interventions are tabulated below (see Appendix A for complete table).
+The top five interventions are tabulated below.
 
 | Intervention Name | Description | Cost-Benefit Ratio |
 | ----------------- | ----------- | ------------------ |
@@ -111,29 +100,13 @@ The top five interventions are tabulated below (see Appendix A for complete tabl
 | Incentives for Preventive Screenings | Offer rewards for policyholders who undergo preventive health screenings. | 0.143 |
 | Cancer Prevention Initiatives | Provide resources and information on cancer prevention strategies. | 0.143 |
 
-The two main causes of death within the current policyholder base are neoplasms and
-diseases of the circulatory system, together making up approximately 63.5% of deaths (see
-Appendix B).
-
-The following interventions were disqualified as they did not appropriately reflect the needs
-of SuperLife’s policyholder pool:
-* **Safety Campaigns** primarily target individuals at risk of external causes of morbidity
-and mortality which account for less than 8.8% deaths.
-* **Social Connection Initiatives** primarily target individuals at risk of mental and
-behavioural disorders which account for approximately 1.4% of deaths.
-* **Community Fitness Challenges** primarily target younger individuals whereas the
-median age of policyholders is 52 (see Appendix C). Furthermore, engaging in
-physical activities that lead to injuries may subject SuperLife to liability for damages.
-* **Cancer Prevention Initiatives** offer a similar reduction in mortality rates to
-Incentives for Preventive Screenings. However, it is conditional on early detection, is
-specific to cancer, and does not account for a large range of other diseases prevalent
-in the policyholder pool.
-
 The Incentives for Preventive Screenings intervention is generally applicable to all
-policyholders and covers most causes of death. Importantly, it addresses deaths caused by
-circulatory diseases which are strongly correlated with smoking (see Appendix D), a
-significant factor in elevated mortality rates. Additionally, it promotes taking a proactive and
-targeted approach to reducing health risks. Thus, Incentives for Preventive Screenings was
+policyholders and covers most causes of death. Importantly, it addresses the two main 
+causes of death within the current policyholder. That is, deaths stemming from neoplasms or
+diseases of the circulatory system, which make up approximately 63.5% of deaths. Additionally, 
+it promotes taking a proactive and targeted approach to reducing health risks. Other 
+interventions were qualified out on the basis that they did not approrpriately reflect the 
+needs of SuperLife's policyholder pool. Thus, Incentives for Preventive Screenings was 
 selected for use in the health incentive program.
 
 #### Incentive Choice
@@ -151,10 +124,16 @@ different policies and classes.
 
 ### Program Evaluation
 
-For the purposes of evaluating SuperScreen’s performance, the following terms shall have the
-meanings ascribed to them below:
-* “Short-term” means 5-year period from 2024 (i.e., 2024 to 2028)
-* “Long-term” means 20-year period from 2024 (i.e., 2024 to 2043)
+For the purposes of evaluating the performance of SuperScreen, Zoro has defined: 
+* "short-term" to mean a 5-year period from 2024 (i.e., 2024 to 2028)
+* "long-term” to mean a 20-year period from 2024 (i.e., 2024 to 2043)
+
+Furthermore, key metrics which Zoro have identified as crucial for measuring success are:
+1. Policyholder Utilisation
+2. Customer Satisfaction
+3. Claims Frequency
+4. Lapse Rate
+5. New Policyholders
 
 The short-term timeframe is designed for preliminary analysis of the program’s initial
 outcome and marketing effectiveness. Conversely, the long-term timeframe is tailored to
@@ -173,12 +152,18 @@ savings reached for term insurance were 1136 lives on a total original deaths of
 is, 1136 who did die with the current policy would not have died if SuperScreen were in 
 place. Similarly, for Single Premium Whole Life, there were mortality savings of 1121 lives 
 on the original 18685 deaths. The changes in mortality are shown in the graphs below. 
+
+![]()
+
+![]()
+
 #### Cost-Benefit Analysis
 The economic value of the proposed program was projected across 5 year and 20 year 
 timeframes. Economic value was defined as the profit derived from the addition of new 
 policies. This value was calculated across the different classes and for each death benefit, 
 before being aggregated together to form a single value for total economic value.  
 
+![]()
 
 The table above illustrates the economic value of 20-Year Term Insurance with and without 
 and introduction of SuperScreen. Evidently, the aggregate value of the policy with the 
@@ -241,7 +226,7 @@ The provided interventions dataset quotes a 5-10% reduction in mortality upon su
 This is the rate of policyholders that we assume will utilise the program, which will affect mortality experience (by affecting mortality improvement rates) and the costs of reimbursement upon successful completion of the program.  
 
 **Investment earnings rate: 4.00%.** <br />
-According to Frontier Advisors (2024), life insurers typically invest most of their portfolios in safe bonds, which earn at the same rate as the discount rate, and the remainder of their portfolio in riskier investments, making the overall investment earnings rate slightly higher than the discount rate. On this basis, we have adopted an investment earnings rate of 4%, 1% higher than the discount rate. 
+We found that life insurers typically invest most of their portfolios in safe bonds, which earn at the same rate as the discount rate, and the remainder of their portfolio in riskier investments, making the overall investment earnings rate slightly higher than the discount rate. On this basis, we have adopted an investment earnings rate of 4%, 1% higher than the discount rate. 
 
 **Expenses: Č200 for first year, Č25 onwards** <br />
 Expenses were determined through an expense analysis, involving estimation of each expense to obtain an aggregate amount. 
@@ -250,7 +235,7 @@ Expenses were determined through an expense analysis, involving estimation of ea
 Required capital for an insurance company is frequently a flat amount, but a rate of death benefit was chosen as a more conservative approach. If a regulatory flat amount was used instead, more capital could be allocated to investment earnings and distributed earnings, though the per policy impact is relatively minor. 
 
 **Required reserves: Č0.5 per Č1000 death benefit** 
-Required reserves were estimated based on industry standards (AgentSync, 2021).  
+Required reserves were estimated based on industry standards.  
 
 **Further, for simplicity, we have assumed:** <br />
 No change in age, income and employment distribution. <br />
@@ -266,7 +251,7 @@ No compounding of mortality rate reductions by applying multiple interventions s
 
 #### Risks
 
-**Low Program Utilisation Rate:** Low participation in the program due to a lack of awareness or unwillingness to participate, caused by high costs or low accessibility. The reduction in Australian bulk billing providers (Attwooll, 2024) mean increases in out-of-pocket expenses for healthcare screenings and may lead to resistance in policyholders undertaking preventative health screenings. 
+**Low Program Utilisation Rate:** Low participation in the program due to a lack of awareness or unwillingness to participate, caused by high costs or low accessibility. The reduction in Australian bulk billing providers mean increases in out-of-pocket expenses for healthcare screenings and may lead to resistance in policyholders undertaking preventative health screenings. 
 
 **Changes to Mortality Rates:** External events such as government interventions and pandemics may affect the mortality rates underpinning the pricing of the proposed incentive program. For example, the COVID-19 pandemic led to excess mortality, whereas government interventions to ban vaping or smoking may lead to lighter mortality experience. 
 
@@ -340,7 +325,7 @@ A critical ethical concern with the program lies in the potential for inadverten
 particularly against individuals who cannot fully engage in preventative health screenings, for 
 example, due to personal reasons, disabilities, or those not able to afford GP appointments. 
 For example, people with disabilities have a 10% lower health screening participation rate 
-compared to those without disabilities (Kim, 2023). Such barriers not only marginalise 
+compared to those without disabilities. Such barriers not only marginalise 
 certain groups but also excludes them from accessing the benefits of the program. 
 
 Offering reimbursements to policyholders in the form of a percentage of their premiums 
