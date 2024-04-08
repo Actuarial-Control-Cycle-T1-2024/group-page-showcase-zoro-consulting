@@ -35,9 +35,9 @@ increasing sales and adding value to the SuperLife.
 To meet the goals established by SuperLife, the proposed program aims to reduce health 
 risks and mortality rates among policyholders by offering a unique way to reward policyholders for 
 their healthy behaviours. This will allow SuperLife to manage their risk exposure while 
-enhancing their value proposition and ethically promoting healthy behaviours. The program 
+ethically promoting healthy behaviours with an enhanced value proposition. The program 
 supports strives for long-term sustainability and integrates data collection to facilitate this.
-Zoro's findings are supported by strong evidence that preventative screening services are 
+The proposed program is supported by strong evidence that preventative screening services are 
 associated with improved health outcomes and lower rates of mortality.
 
 ---
