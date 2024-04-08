@@ -153,9 +153,7 @@ is, 1136 who did die with the current policy would not have died if SuperScreen 
 place. Similarly, for Single Premium Whole Life, there were mortality savings of 1121 lives 
 on the original 18685 deaths. The changes in mortality are shown in the graphs below. 
 
-![]()
-
-![]()
+![](Change%20in%20Mortality%20Graphs.png)
 
 #### Cost-Benefit Analysis
 The economic value of the proposed program was projected across 5 year and 20 year 
@@ -163,7 +161,10 @@ timeframes. Economic value was defined as the profit derived from the addition o
 policies. This value was calculated across the different classes and for each death benefit, 
 before being aggregated together to form a single value for total economic value.  
 
-![]()
+|   | No Intervention | SuperScreen |
+| - | --------------- | ----------- |
+| 5-Year | Č 469,200,987 |  Č 690,901,952 |
+| 20-Year | Č 8,581,185,103 | Č 12,577,926,099 |
 
 The table above illustrates the economic value of 20-Year Term Insurance with and without 
 and introduction of SuperScreen. Evidently, the aggregate value of the policy with the 
@@ -171,9 +172,13 @@ program far exceeds the value without the program. This represents a 47.25% incr
 short term, and 46.58% increase in the long term, demonstrating that the program sees 
 success in the short and long term. 
 
+|   | No Intervention | SuperScreen |
+| - | --------------- | ----------- |
+| 5-Year | Č 3,927,665,974 | Č 4,766,302,971 |
+| 20-Year | Č 52,503,692,129 | Č 63,630,720,310 |
+
 Similarly, the aggregate value of the policy with SuperScreen exceeds the policy without by 
 21.35% and 21.19% for 5-Year and 20-Year outlooks respectively.  
-
 
 #### Pricing Recommendations
 The economic value of the program is largely influenced by the trade-off between increased 
