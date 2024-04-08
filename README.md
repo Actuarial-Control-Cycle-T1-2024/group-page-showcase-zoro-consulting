@@ -6,13 +6,18 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ### View Zoro Consulting's full report [here](Zoro%20Consulting%20Report.pdf).
 
+In the full report, Zoro Consulting provides recommendations with supporting 
+analysis, including model results, key actuarial assumptions, sensitivity 
+testing, risks, limitations, and ethical considerations.
+
 ---
 
 ### Executive Summary
 
-Zoro Consulting (Zoro) has been engaged by SuperLife to develop a health incentive program
-aligning with their longer-term life insurance offerings, which will mutually benefit 
-customers and SuperLife. Zoro is proposing a preventative health screening rewards-based program, 
+SuperLife, a major life insurance carrier in Lumaria, has engaged Zoro Consulting to 
+facilitate product development by comparing findings between their internal product 
+development team and an external independent consulting team. 
+Zoro is proposing a preventative health screening rewards-based program, 
 which consists of a mobile application to provide individualised recommendations on 
 health screenings appropriate for each policyholder, and reimbursement for successful 
 completion of such screenings. While Zoro's findings support the implementation of the 
@@ -21,26 +26,15 @@ the program have been highlighted and strategies to manage them have been recomm
 
 ---
 
-### Overview
-
-SuperLife, a major life insurance carrier in Lumaria, has engaged Zoro Consulting to 
-facilitate product development by comparing findings between their internal product 
-development team and an external independent consulting team. The proposed program 
-is to be paired with their longer-term insurance offerings. This pairing has the 
-goal of incentivising healthy behaviours in policyholders, decrease mortality, 
-improve competitiveness, increase sales and add value to the SuperLife.
-
-In the full report, Zoro Consulting provides recommendations with supporting 
-analysis, including model results, key actuarial assumptions, sensitivity 
-testing, risks, limitations, and ethical considerations.
-
----
-
 ### Objectives
 
+The pairing of the program with SuperLife's products have the goal of incentivising 
+healthy behaviours in policyholders, decrease mortality, improve competitiveness, 
+increase sales and add value to the SuperLife.
+
 To meet the goals established by SuperLife, the proposed program aims to reduce health 
-risks and mortality rates among policyholders by offering a unique and competitive 
-health incentive program. This will allow SuperLife to manage their risk exposure while 
+risks and mortality rates among policyholders by offering a unique way to reward policyholders for 
+their healthy behaviours. This will allow SuperLife to manage their risk exposure while 
 enhancing their value proposition and ethically promoting healthy behaviours. The program 
 supports strives for long-term sustainability and integrates data collection to facilitate this.
 Zoro's findings are supported by strong evidence that preventative screening services are 
