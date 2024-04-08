@@ -146,8 +146,8 @@ evaluation of the program’s performance and its influence on SuperLife’s obj
 ### Pricing and Costs
 
 #### Mortality Savings
-Before determining mortality savings, Zoro investigated in-force mortality rates by class, 
-as well as how Lumaria compared to other countries.
+In order to determine mortality savings, Zoro conducted a preliminary investigation of 
+in-force mortality rates by class, as well as how Lumaria compared to other countries.
 
 ![](Mortality%20by%20Class%20Graph.png)
 
