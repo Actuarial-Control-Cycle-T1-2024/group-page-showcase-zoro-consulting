@@ -251,10 +251,10 @@ We found that life insurers typically invest most of their portfolios in safe bo
 **Expenses: Č200 for first year, Č25 onwards** <br />
 Expenses were determined through an expense analysis, involving estimation of each expense to obtain an aggregate amount. 
 
-**Required capital: Č0.01 per Č1000 death benefit**  
+**Required capital: Č0.01 per Č1000 death benefit** <br />
 Required capital for an insurance company is frequently a flat amount, but a rate of death benefit was chosen as a more conservative approach. If a regulatory flat amount was used instead, more capital could be allocated to investment earnings and distributed earnings, though the per policy impact is relatively minor. 
 
-**Required reserves: Č0.5 per Č1000 death benefit** 
+**Required reserves: Č0.5 per Č1000 death benefit** <br />
 Required reserves were estimated based on industry standards.  
 
 **Further, for simplicity, we have assumed:** <br />
@@ -304,6 +304,10 @@ No compounding of mortality rate reductions by applying multiple interventions s
 **Competitor Risk:** Strategic partnerships with healthcare providers, wellness brands or technology companies to enhance program value and efficiency. Employ effective marketing and communication to make the program more attractive. 
 
 **Cyberthreat Risk:** Implementing strong data encryption protocols and using mechanisms such as multi-factor authentication to prevent unauthorised access to the application. 
+
+The most significant risks to the program are displayed in a risk map, categorised by severity and likelihood of the risk occurring.
+
+![](Risk%20Map%20Image.png)
 
 ---
 
